@@ -1,0 +1,17 @@
+In folder 'assets' we keep pictures.
+
+
+Algorithm how to load picture to the program:
+
+1. Go to google drive https://drive.google.com/drive/u/1/folders/1xNmOnYAF9Nv-fanDF1yRJvw6HM37KPSk.
+
+2. Download the picture.
+
+3. Put it into 'assets'.
+
+4. In file pubspec.yaml add this text:
+
+  assets:
+     - assets/picture_name.jpg
+
+5. Run the program)
